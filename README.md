@@ -5,6 +5,7 @@ This repository contains the completed assignment for the BEE-102 course (Spring
 ## Files Included
 
 - `bee-assignment.ipynb`: The Jupyter Notebook containing code and outputs for each question.
+- [singlelineoutput.fasta](https://github.com/Thor1411/BEE-Assignment/blob/main/singlelineoutput.fasta): Output FASTA file containing sequences converted to single-line format.
 
 ## How to Run
 
