@@ -1,11 +1,7 @@
 # BEE-102-2025 Assignment Submission
 
-This repository contains the completed assignment for the BEE-102 course (Spring 2025), titled `bee-assignment.ipynb`.
+This repository contains the completed assignment for the BEE-102 course (Spring 2025).
 
-## Files Included
-
-- `bee-assignment.ipynb`: The Jupyter Notebook containing code and outputs for each question.
-- [singlelineoutput.fasta](https://github.com/Thor1411/BEE-Assignment/blob/main/singlelineoutput.fasta): Output FASTA file containing sequences converted to single-line format.
 
 ## How to Run
 
